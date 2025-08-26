@@ -63,6 +63,4 @@ Open the .pbix file in Power BI Desktop.
 View or connect your own dataset to refresh the dashboard with new data.
 
 Customize visuals or calculations as required.
-
-License
-This project is provided under an open-source license (add actual license here if applicable, e.g., MIT License).es-Dashboard
+For View example : https://github.com/Aneeq-Ur-Rehman123/Mobile_sales-Dashboard/blob/main/pbi.png
